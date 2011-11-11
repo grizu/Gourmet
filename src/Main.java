@@ -9,5 +9,9 @@ public class Main
 	{
 		System.out.println("new line"); 
 		System.out.println("second line"); 
+		
+		[branch "master"]
+				remote = origin
+				merge = refs/heads/master
 	}
 }
